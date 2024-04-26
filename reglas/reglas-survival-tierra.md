@@ -1,0 +1,2 @@
+# 📘 Reglas - Survival Tierra
+
