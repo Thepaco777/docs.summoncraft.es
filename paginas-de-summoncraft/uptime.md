@@ -1,2 +1,2 @@
-# Uptime
+# 📡 Uptime
 

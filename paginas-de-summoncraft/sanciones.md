@@ -1,2 +1,2 @@
-# Sanciones
+# ⚒️ Sanciones
 
