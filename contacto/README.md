@@ -6,9 +6,9 @@ layout:
     visible: true
     size: full
   title:
-    visible: true
+    visible: false
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -19,3 +19,20 @@ layout:
 
 # 📞 Contacto
 
+¿Necesitas ayuda? Aquí tienes los métodos de contacto que tenemos&#x20;
+
+## Correos de soporte
+
+<mark style="color:yellow;">**soporte@summoncraft.us**</mark>&#x20;
+
+<mark style="color:yellow;">**soporte@summoncraft.xyz**</mark>
+
+## Discord de soporte
+
+<mark style="color:yellow;">**discord.gg/summoncraft**</mark>
+
+## **¿Necesitas soporte privado?**
+
+<mark style="color:yellow;">santana@summoncraft.us</mark>
+
+<mark style="color:yellow;">thepaco@summoncraft.us</mark>
