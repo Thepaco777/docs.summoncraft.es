@@ -48,7 +48,7 @@ Independientemente del lugar donde vivas, tienes los siguientes derechos:
 
 ## 5. Contáctanos sin dudarlo
 
-Ponte en contacto con nosotros y te ayudaremos en cualquier duda o problema, así como solicitud de privacidad que tengas. Puedes contactarnos en [contacto](../../contacto/ "mention")
+Ponte en contacto con nosotros y te ayudaremos en cualquier duda o problema, así como solicitud de privacidad que tengas. Puedes contactarnos en [soporte](../../soporte/ "mention")
 
 ## 6. Cambios en la política
 

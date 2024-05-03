@@ -47,7 +47,7 @@ Parte de los datos que recopilamos son públicos y accesible para todos, pero ot
 
 ## 5. Contáctanos sin dudarlo&#x20;
 
-Ponte en contacto con nosotros y te ayudaremos en cualquier duda o problema, así como solicitud de privacidad que tengas. Puedes contactarnos en [contacto](../../contacto/ "mention")
+Ponte en contacto con nosotros y te ayudaremos en cualquier duda o problema, así como solicitud de privacidad que tengas. Puedes contactarnos en [soporte](../../soporte/ "mention")
 
 ## 6. Cambios en la política&#x20;
 
