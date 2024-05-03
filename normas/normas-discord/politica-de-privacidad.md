@@ -43,12 +43,12 @@ Independientemente del lugar donde vivas, tienes los siguientes derechos:
 
 * No recibir un trato discriminatorio por hacer o querer hacer uso de tus derechos de privacidad
 * Solicitar hacer cambios en la información errónea que tengamos almacenada sobre ti (podemos tardar hasta 7 días)
-* Solicitar todos los datos que tenemos almacenados sobre ti (podemos tardar hasta 15 días)
+* Solicitar todos los datos que tenemos almacenados sobre ti (podemos tardar hasta 30 días)
 * Solicitar la eliminación de absolutamente todos los datos relacionados directa e indirectamente con tu cuenta y contigo (podemos tardar hasta 60 días)
 
 ## 5. Contáctanos sin dudarlo
 
-Ponte en contacto con nosotros y te ayudaremos en cualquier duda o problema, así como solicitud de privacidad que tengas.
+Ponte en contacto con nosotros y te ayudaremos en cualquier duda o problema, así como solicitud de privacidad que tengas. Puedes contactarnos en [contacto](../../contacto/ "mention")
 
 ## 6. Cambios en la política
 

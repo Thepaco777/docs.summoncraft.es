@@ -18,6 +18,8 @@ layout:
 
 # 📗 Normas - Discord
 
+## <mark style="background-color:orange;">El desconocimiento de estas normas no impide su cumplimiento.</mark>
+
 Deberás cumplir las normas listadas a continuación. Podrás ser sancionado de cualquier forma si incumples cualquiera de ellas.
 
 Nos reservamos el derecho a sancionarte de cualquier forma (aviso, silenciado, baneo temporal o permanente) por cualquier motivo que creamos razonable.
