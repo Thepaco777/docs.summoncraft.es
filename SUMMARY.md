@@ -15,7 +15,7 @@
   * [📑 Normas - SS](normas/normas-ss.md)
   * [📗 Normas - Discord](normas/normas-discord/README.md)
     * [📋 Política de privacidad](normas/normas-discord/politica-de-privacidad.md)
-  * [📗 Reglas - Generales](normas/reglas-generales/README.md)
+  * [📗 Reglas - Generales](normas/reglas-generales.md)
     * [📋 Política de privacidad](normas/reglas-generales/politica-de-privacidad.md)
   * [📙 Normas - Gens](normas/normas-gens.md)
   * [📙 Normas - Survival Custom](normas/normas-survival-custom.md)
