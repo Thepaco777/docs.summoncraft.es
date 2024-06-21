@@ -1,2 +1,5 @@
 # ⚒️ Comandos - Discord
 
+\+ip
+
+\+tienda

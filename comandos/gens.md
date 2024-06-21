@@ -4,3 +4,89 @@ coverY: 0
 
 # ⚒️ Comandos - Gens
 
+```
+- is teleport
+- is accept
+- is ban
+- is coop
+- is coops
+- is settings
+- is counts
+- is create
+- is delwarp
+- is upgrades
+- is demote
+- is disband
+- is expel
+- is fly
+- is invite
+- is kick
+- is leave
+- is members
+- is pardon
+- is permissions
+- is promote
+- is setrole
+- is setteleport
+- is setwarp
+- is show
+- is team
+- is teamchat
+- is top
+- is transfer
+- is uncoop
+- is visit
+- is warp
+- is warps
+- daily
+- ah
+- spawn
+- tienda
+- discord
+- island
+- menu
+- vegas:casino menu
+- shop
+- vote
+- pay
+- msg
+- r
+- trade
+- pv
+- coinflip
+- duels
+- gmenu main
+- sit
+- helpop
+- sell
+- genshop
+- crates
+- kits
+- minas
+- menu
+- tops
+- top
+- playtime
+- quest
+- quests
+- misiones
+- rankup
+- ayuda
+- casino
+- coliseo
+- mina
+- nexus
+- is go
+- essence pay
+- essence top
+- pico
+- warps
+- koth
+- tops
+- menu
+- horas
+- horasdejuego
+- tags
+- nevitece
+- duel
+```
