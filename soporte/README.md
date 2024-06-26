@@ -30,9 +30,3 @@ layout:
 ## Discord de soporte.
 
 <mark style="color:yellow;">**discord.gg/summoncraft**</mark>
-
-## **¿Necesitas soporte privado?**
-
-<mark style="color:yellow;">santana@summoncraft.us</mark>
-
-<mark style="color:yellow;">thepaco@summoncraft.us</mark>
