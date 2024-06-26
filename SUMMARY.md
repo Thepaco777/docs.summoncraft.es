@@ -1,9 +1,6 @@
 # Table of contents
 
-* [📌 SummonCraft](README.md)
-  * [⛰️ Historia](summoncraft/historia.md)
-  * [💼 Equipo de staff](summoncraft/staff.md)
-* [📌 Información](info/README.md)
+* [📌 Información](README.md)
   * [📦 Cambio de cuenta](info/cuenta.md)
   * [💰 Beneficios Boost](info/boost.md)
   * [🚫 Clientes ilegales](info/clientes-ilegales.md)

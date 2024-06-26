@@ -1,2 +1,0 @@
-# 💼 Equipo de staff
-

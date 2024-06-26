@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/SummonCraft (3).png
+cover: ../.gitbook/assets/SummonCraft (4).png
 coverY: 0
 layout:
   cover:
@@ -17,5 +17,5 @@ layout:
     visible: true
 ---
 
-# 📌 SummonCraft
+# 📌 Información
 
