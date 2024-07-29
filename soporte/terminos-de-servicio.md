@@ -101,7 +101,21 @@ Infracción de derechos de autor Respetamos los derechos de propiedad intelectua
 
 ### DECLARACIONES DEL USUARIO
 
-Al utilizar los Servicios, usted declara y garantiza que: (1) toda la información de registro que envíe será verdadera, precisa, actual y completa; (2) mantendrá la exactitud de dicha información y actualizará rápidamente dicha información de registro según sea necesario; (3) usted tiene capacidad jurídica y se compromete a cumplir con estos Términos Legales; (4) no es menor de edad en la jurisdicción en la que reside o, si es menor, ha recibido permiso de sus padres para utilizar los Servicios; (5) no accederá a los Servicios a través de medios automatizados o no humanos, ya sea a través de un bot, script o de otro modo; (6) no utilizará los Servicios para ningún propósito ilegal o no autorizado; y (7) su uso de los Servicios no violará ninguna ley o regulación aplicable. Si proporciona información falsa, inexacta, desactualizada o incompleta, tenemos el derecho de suspender o cancelar su cuenta y rechazar cualquier uso actual o futuro de los Servicios (o cualquier parte de los mismos).
+Al utilizar los Servicios, usted declara y garantiza que:&#x20;
+
+(1) toda la información de registro que envíe será verdadera, precisa, actual y completa
+
+(2) mantendrá la exactitud de dicha información y actualizará rápidamente dicha información de registro según sea necesario&#x20;
+
+(3) usted tiene capacidad jurídica y se compromete a cumplir con estos Términos Legales&#x20;
+
+(4) no es menor de edad en la jurisdicción en la que reside o, si es menor, ha recibido permiso de sus padres para utilizar los Servicios&#x20;
+
+(5) no accederá a los Servicios a través de medios automatizados o no humanos, ya sea a través de un bot, script o de otro modo&#x20;
+
+(6) no utilizará los Servicios para ningún propósito ilegal o no autorizado
+
+&#x20;(7) su uso de los Servicios no violará ninguna ley o regulación aplicable. Si proporciona información falsa, inexacta, desactualizada o incompleta, tenemos el derecho de suspender o cancelar su cuenta y rechazar cualquier uso actual o futuro de los Servicios (o cualquier parte de los mismos).
 
 ### REGISTRO DE USUARIO
 
@@ -186,7 +200,23 @@ No afirmamos ninguna propiedad sobre sus Contribuciones. Usted conserva la propi
 
 ### DIRECTRICES PARA LAS REVISIONES
 
-Podemos proporcionarle áreas en los Servicios para dejar reseñas o calificaciones. Al publicar una reseña, debe cumplir con los siguientes criterios: (1) debe tener experiencia de primera mano con la persona/entidad que se está revisando; (2) sus reseñas no deben contener malas palabras ofensivas ni lenguaje abusivo, racista, ofensivo u odioso; (3) sus reseñas no deben contener referencias discriminatorias basadas en religión, raza, género, origen nacional, edad, estado civil, orientación sexual o discapacidad; (4) sus reseñas no deben contener referencias a actividades ilegales; (5) no debe estar afiliado a la competencia si publica críticas negativas; (6) no debe sacar ninguna conclusión sobre la legalidad de la conducta; (7) no puede publicar declaraciones falsas o engañosas; y (8) no puede organizar una campaña para alentar a otros a publicar reseñas, ya sean positivas o negativas.
+Podemos proporcionarle áreas en los Servicios para dejar reseñas o calificaciones. Al publicar una reseña, debe cumplir con los siguientes criterios
+
+&#x20;(1) debe tener experiencia de primera mano con la persona/entidad que se está revisando&#x20;
+
+(2) sus reseñas no deben contener malas palabras ofensivas ni lenguaje abusivo, racista, ofensivo u odioso
+
+(3) sus reseñas no deben contener referencias discriminatorias basadas en religión, raza, género, origen nacional, edad, estado civil, orientación sexual o discapacidad&#x20;
+
+(4) sus reseñas no deben contener referencias a actividades ilegales
+
+(5) no debe estar afiliado a la competencia si publica críticas negativas
+
+(6) no debe sacar ninguna conclusión sobre la legalidad de la conducta
+
+&#x20;(7) no puede publicar declaraciones falsas o engañosas&#x20;
+
+(8) no puede organizar una campaña para alentar a otros a publicar reseñas, ya sean positivas o negativas.
 
 Podemos aceptar, rechazar o eliminar reseñas a nuestro exclusivo criterio. No tenemos absolutamente ninguna obligación de filtrar o eliminar reseñas, incluso si alguien las considera objetables o inexactas. Las reseñas no están respaldadas por nosotros y no distribuimos ni distribuimos todo el contenido relacionado con las reseñas.
 
@@ -196,7 +226,17 @@ Los Servicios pueden contener (o pueden ser enviados a través del Sitio) enlace
 
 ### GESTIÓN DE SERVICIOS
 
-Nos reservamos el derecho, pero no la obligación, de: (1) monitorear los Servicios para detectar violaciones de estos Términos legales; (2) tomar las acciones legales apropiadas contra cualquier persona que, a nuestro exclusivo criterio, viole la ley o estos Términos legales, incluido, entre otros, denunciar a dicho usuario ante las autoridades encargadas de hacer cumplir la ley; (3) a nuestro exclusivo criterio y sin limitación, rechazar, restringir el acceso, limitar la disponibilidad o desactivar (en la medida en que sea tecnológicamente posible) cualquiera de sus Contribuciones o cualquier parte de las mismas; (4) a nuestro exclusivo criterio y sin limitación, aviso ni responsabilidad, eliminar de los Servicios o deshabilitar de otro modo todos los archivos y contenidos que tengan un tamaño excesivo o que de alguna manera sean gravosos para nuestros sistemas; y (5) administrar los Servicios de una manera diseñada para proteger nuestros derechos y propiedad y facilitar el funcionamiento adecuado de los Servicios.
+Nos reservamos el derecho, pero no la obligación, de
+
+(1) monitorear los Servicios para detectar violaciones de estos Términos legales
+
+(2) tomar las acciones legales apropiadas contra cualquier persona que, a nuestro exclusivo criterio, viole la ley o estos Términos legales, incluido, entre otros, denunciar a dicho usuario ante las autoridades encargadas de hacer cumplir la ley
+
+&#x20;(3) a nuestro exclusivo criterio y sin limitación, rechazar, restringir el acceso, limitar la disponibilidad o desactivar (en la medida en que sea tecnológicamente posible) cualquiera de sus Contribuciones o cualquier parte de las mismas
+
+&#x20;(4) a nuestro exclusivo criterio y sin limitación, aviso ni responsabilidad, eliminar de los Servicios o deshabilitar de otro modo todos los archivos y contenidos que tengan un tamaño excesivo o que de alguna manera sean gravosos para nuestros sistemas
+
+(5) administrar los Servicios de una manera diseñada para proteger nuestros derechos y propiedad y facilitar el funcionamiento adecuado de los Servicios.
 
 ### INFRACCIONES DE DERECHOS DE AUTOR
 
@@ -238,7 +278,19 @@ EN NINGÚN CASO NOSOTROS O NUESTROS DIRECTORES, EMPLEADOS O AGENTES SEREMOS RESP
 
 ### INDEMNIZACIÓN
 
-Usted acepta defendernos, indemnizarnos y eximirnos de toda responsabilidad, incluidas nuestras subsidiarias, afiliadas y todos nuestros respectivos funcionarios, agentes, socios y empleados, de y contra cualquier pérdida, daño, responsabilidad, reclamo o demanda, incluidos los abogados razonables. ' honorarios y gastos, realizados por cualquier tercero debido a o que surjan de: (1) sus Contribuciones; (2) uso de los Servicios; (3) incumplimiento de estos Términos Legales; (4) cualquier incumplimiento de sus representaciones y garantías establecidas en estos Términos Legales; (5) su violación de los derechos de un tercero, incluidos, entre otros, los derechos de propiedad intelectual; o (6) cualquier acto abiertamente dañino hacia cualquier otro usuario de los Servicios con quien se conectó a través de los Servicios. Sin perjuicio de lo anterior, nos reservamos el derecho, a su cargo, de asumir la defensa y el control exclusivos de cualquier asunto por el cual deba indemnizarnos, y usted acepta cooperar, a su cargo, con nuestra defensa de dichos reclamos. Haremos todos los esfuerzos razonables para notificarle sobre cualquier reclamo, acción o procedimiento que esté sujeto a esta indemnización al tener conocimiento de ello.
+Usted acepta defendernos, indemnizarnos y eximirnos de toda responsabilidad, incluidas nuestras subsidiarias, afiliadas y todos nuestros respectivos funcionarios, agentes, socios y empleados, de y contra cualquier pérdida, daño, responsabilidad, reclamo o demanda, incluidos los abogados razonables. ' honorarios y gastos, realizados por cualquier tercero debido a o que surjan de
+
+&#x20;(1) sus Contribuciones
+
+&#x20;(2) uso de los Servicios
+
+&#x20;(3) incumplimiento de estos Términos Legales
+
+(4) cualquier incumplimiento de sus representaciones y garantías establecidas en estos Términos Legales
+
+(5) su violación de los derechos de un tercero, incluidos, entre otros, los derechos de propiedad intelectual&#x20;
+
+&#x20;(6) cualquier acto abiertamente dañino hacia cualquier otro usuario de los Servicios con quien se conectó a través de los Servicios. Sin perjuicio de lo anterior, nos reservamos el derecho, a su cargo, de asumir la defensa y el control exclusivos de cualquier asunto por el cual deba indemnizarnos, y usted acepta cooperar, a su cargo, con nuestra defensa de dichos reclamos. Haremos todos los esfuerzos razonables para notificarle sobre cualquier reclamo, acción o procedimiento que esté sujeto a esta indemnización al tener conocimiento de ello.
 
 ### DATOS DEL USUARIO
 
