@@ -36,8 +36,6 @@ layout:
 
 Rango exclusivo en el servidor (Discord y Minecraft)&#x20;
 
-Fly en el lobby
-
 Ventajas del rango vip
 
 ## ¿Cómo aplicar?

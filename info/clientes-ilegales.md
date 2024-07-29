@@ -1,2 +1,0 @@
-# 🚫 Clientes ilegales
-
