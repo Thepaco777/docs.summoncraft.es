@@ -1,5 +1,4 @@
 ---
-cover: ../.gitbook/assets/SummonBoosteos.png
 coverY: 0
 layout:
   cover:
