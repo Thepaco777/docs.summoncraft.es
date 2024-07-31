@@ -26,3 +26,5 @@ layout:
 ▣ X3 BOOST Rango PLATINO por 2 semanas (1 modalidad)
 
 ◆ X4 BOOST Rango PLATINO+ por 2 semanas (1 modalidad)
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
