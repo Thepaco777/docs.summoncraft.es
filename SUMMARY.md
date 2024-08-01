@@ -2,6 +2,7 @@
 
 * [📌 Información](README.md)
   * [📦 Cambio de cuenta](info/cuenta.md)
+  * [Contraseña](info/contrasena.md)
   * [💰 Beneficios Boost](info/boost.md)
   * [📱 Redes](info/redes.md)
   * [📃 Requisitos media](info/media.md)
@@ -16,9 +17,7 @@
   * [📙 Normas - Gens](normas/gens.md)
   * [📙 Normas - Survival Custom](normas/custom.md)
   * [📘 Normas - Survival Tierra](normas/tierra.md)
-  * [📘 Normas - FanfBox](normas/fnafbox.md)
   * [📕 Normas - PokeBox](normas/pokebox.md)
-  * [📕 Normas - AstroBox](normas/astrobox.md)
 * [📞 Contacto](soporte/README.md)
   * [📏 Términos de servicio](soporte/terminos-de-servicio.md)
   * [📏 Política de privacidad](soporte/politica-de-privacidad.md)
