@@ -35,5 +35,5 @@
   * [🌍 Mapa Tierra](webs/tierra.md)
 * [Actualizaciones](actualizaciones/README.md)
   * [Page 1](actualizaciones/page-1.md)
-* [Tutoriales](tutoriales/README.md)
+* [📝 Tutoriales](tutoriales/README.md)
   * [Como hacer vinos](tutoriales/page.md)
