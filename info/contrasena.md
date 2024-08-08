@@ -24,6 +24,7 @@ Para poder recibir un cambio de contraseña tienes que tener en cuenta estas cos
 ## Cosas a tener en cuenta:
 
 * Tienes que tener alguna foto/video dentro del servidor
+* La foto/video tiene que ser desde tu perspectiva no sirve una foto tomada desde otra cuenta
 * En caso de que tengas algún rango pasar tbx-id del rango
 
 ## ¿Como puedo solicitarlo?
