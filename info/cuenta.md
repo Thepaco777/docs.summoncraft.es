@@ -60,6 +60,6 @@ Lo definido anteriormente es lo que se abarca en una migración de una cuenta a 
 
 En caso de no hacerlo antes de solicitar la migración y que la cuenta sea sancionada; las cosas se perderán, ya que una vez sancionada la cuenta, no hay vuelta atrás.
 
-## Aviso
+## :warning: Aviso :warning:
 
 Si un jugador realiza la compra de algún producto de nuestra tienda, para otro jugador; se debe ser consciente que en caso de que el comprador decida abrir disputa y/o solicitar cambio de una cuenta a otra, la cuenta del jugador que ha recibido la compra quedará sancionada de manera permanente; y si este realiza un reporte en nuestro soporte, la cuenta del comprador también quede quedar sancionada, por realizar compras con el fin de perjudicar a un otros usuario del servidor.
