@@ -25,9 +25,9 @@ En este menú tenemos 4 enlaces los cuales cada uno te dará una recompensa\
 El primer enlace te llevara a esta pagina: https://www.40servidoresmc.es/summoncraft-votar Solo tendrás que poner tu nick y hacer el captcha para verificar que no eres un robot
 
 Una vez lo tengas te saldra esta pagina\
-Ahora ya podemos volver al Minecraft y nos aparecera este mensaje
+Ahora ya podemos volver al Minecraf
 
-Con el una Llave Vote
+
 
 Y así lo mismo con los otros 3 enlaces\
 \
