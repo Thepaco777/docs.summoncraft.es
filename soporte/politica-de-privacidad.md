@@ -1,4 +1,5 @@
 ---
+hidden: true
 cover: ../.gitbook/assets/Copia de Copia de Diseño sin título.png
 coverY: 0
 layout:
