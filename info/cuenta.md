@@ -23,17 +23,17 @@ layout:
 
 ## Cosas a tener en cuenta:
 
-* La venta de rangos por cosas de otro servidor no esta permitido, en caso de esto tu cuenta será baneada permanentemente
+* La venta de rangos por cosas de otro servidor no esta permitido, en caso de esto tu cuenta será baneada permanentemente.
 * Para realizar el cambio ten preparado el <mark style="color:purple;">**tbx-id**</mark> de las compras. Si no cuentas con esto no se podrá realizar el cambio.
 * La cuenta anterior del jugador, quedará baneada de manera permanente bajo el motivo de <mark style="color:purple;">**cambio de cuenta**</mark>, esto es algo que no se puede revertir.
-* No se migran cosas temporales
+* No se migran cosas temporales.
 * Al momento de realizarse una migración, se quitarán los paquetes y beneficios de la cuenta para evitar que el jugador los vuelva a reclamar.
 
 ## Sanciones activas
 
 Si la cuenta a la cual se le desea realizar cambio de rango / beneficio / item, tiene una sanción activa; **no puede aplicarse el cambio, hasta que la sanción se termine**.
 
-En caso de que la sanción sea permanente, no es posible cambiar el beneficio de cuenta
+En caso de que la sanción sea permanente, no es posible cambiar el beneficio de cuenta.
 
 ## ¿Qué se incluye y no se incluye en la migración?
 

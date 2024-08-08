@@ -21,12 +21,12 @@ layout:
 
 ¿Necesitas ayuda? Aquí tienes los métodos de contacto que tenemos disponibles en este momento.
 
-## Correos de soporte.
+## 📌 Correos de soporte.
 
-<mark style="color:yellow;">**soporte@summoncraft.us**</mark>&#x20;
+**➡️**<mark style="color:yellow;">**soporte@summoncraft.us**</mark>&#x20;
 
-<mark style="color:yellow;">**soporte@summoncraft.xyz**</mark>
+**➡️**<mark style="color:yellow;">**soporte@summoncraft.xyz**</mark>
 
-## Discord de soporte.
+## 📌Discord de soporte.
 
-<mark style="color:yellow;">**discord.gg/summoncraft**</mark>
+**➡️**<mark style="color:yellow;">**discord.gg/summoncraft**</mark>
