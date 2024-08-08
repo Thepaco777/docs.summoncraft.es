@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/image1.png
+cover: ../.gitbook/assets/SummonCraft (1).png
 coverY: 0
 layout:
   cover:
@@ -19,4 +19,4 @@ layout:
 
 # 💰 Beneficios Boost
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SummonCraft (8).png" alt=""><figcaption></figcaption></figure>

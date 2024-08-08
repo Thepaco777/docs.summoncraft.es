@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/image4.png
+cover: ../.gitbook/assets/SummonCraft (10).png
 coverY: 0
 layout:
   cover:
@@ -25,4 +25,4 @@ No se preocupen, esta pausa es temporal. Estén atentos, ya que en la próxima r
 
 Agradecemos su comprensión y paciencia. Estamos ansiosos por recibir sus postulaciones en el futuro cercano.
 
-¡Hasta pronto, y gracias por su interés en formar parte de SummonCraft!
+¡Hasta pronto, y gracias por su interés en formar parte de SummonCraft!&#x20;

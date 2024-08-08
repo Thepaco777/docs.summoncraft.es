@@ -1,6 +1,6 @@
 ---
 hidden: true
-cover: ../.gitbook/assets/SummonCraft (1).png
+cover: ../.gitbook/assets/SummonCraft (1) (1).png
 coverY: 0
 layout:
   cover:
