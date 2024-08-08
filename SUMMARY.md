@@ -36,4 +36,4 @@
 * [Actualizaciones](actualizaciones/README.md)
   * [Page 1](actualizaciones/page-1.md)
 * [Tutoriales](tutoriales/README.md)
-  * [Page](tutoriales/page.md)
+  * [Como hacer vinos](tutoriales/como-hacer-vinos.md)
