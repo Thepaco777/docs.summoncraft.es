@@ -31,7 +31,7 @@ Una vez lo tengas en los próximos minutos recibirás una key dentro del servido
 
 Y así lo mismo con los otros 3 enlaces.\
 \
-**➡️**[**https://www.40servidoresmc.es/summoncraft-votar** ](https://www.40servidoresmc.es/summoncraft-votar)\
+**➡️**[<mark style="color:yellow;">**https://www.40servidoresmc.es/summoncraft-votar**</mark> ](https://www.40servidoresmc.es/summoncraft-votar)\
 **➡️**[<mark style="color:yellow;">**https://topminecraftservers.org/server/36879**</mark> ](https://topminecraftservers.org/server/36879)\
 **➡️**[<mark style="color:yellow;">**https://topg.org/minecraft-servers/server-661573**</mark>](https://topg.org/minecraft-servers/server-661573) \
 **➡️**[<mark style="color:yellow;">**https://minecraft-mp.com/server-s329709**</mark>](https://minecraft-mp.com/server-s329709)

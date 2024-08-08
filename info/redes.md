@@ -29,5 +29,5 @@ layout:
 **➡️Mapa:** [http://map.summoncraft.xyz:2095/](http://map.summoncraft.xyz:2095/)\
 **➡️Uptime:** [https://uptime.summoncraft.xyz:2083/](https://uptime.summoncraft.xyz:2083/)\
 **➡️Summon:** [https://summoncraftnetwork.com/](https://summoncraftnetwork.com/)\
-**➡️IP:** summoncxraft.us ![📡](https://discord.com/assets/630521a42e6f6024764e.svg) \
+**➡️IP:** summoncraft.us ![📡](https://discord.com/assets/630521a42e6f6024764e.svg) \
 **➡️Puerto:** 19132
