@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/image1.png
 coverY: 0
 layout:
   cover:
@@ -18,4 +19,4 @@ layout:
 
 # 💰 Beneficios Boost
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>

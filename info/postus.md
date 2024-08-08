@@ -1,3 +1,21 @@
+---
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 📄 Postulaciones
 
 Postulaciones - SummonCraft Queremos informarles que temporalmente hemos cerrado las postulaciones. Agradecemos profundamente el interés mostrado por formar parte de nuestro equipo. Sin embargo, en este momento no estamos aceptando nuevas solicitudes.

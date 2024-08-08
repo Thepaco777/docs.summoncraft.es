@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/image2.png
 coverY: 0
 layout:
   cover:
@@ -17,6 +18,8 @@ layout:
 ---
 
 # 📱 Redes
+
+(Falta decorar)
 
 Twitter: [https://x.com/summoncraft/](https://x.com/summoncraft/) \
 \
