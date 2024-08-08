@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# Contraseña
+# 📝 Contraseña
 
 Para poder recibir un cambio de contraseña tienes que tener en cuenta estas cosas antes de abrir un ticket
 

@@ -2,7 +2,7 @@
 
 * [📌 Información](README.md)
   * [📦 Cambio de cuenta](info/cuenta.md)
-  * [Contraseña](info/contrasena.md)
+  * [📝 Contraseña](info/contrasena.md)
   * [💰 Beneficios Boost](info/boost.md)
   * [📱 Redes](info/redes.md)
   * [📃 Requisitos media](info/media.md)
