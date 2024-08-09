@@ -1,5 +1,6 @@
 ---
 icon: discord
+hidden: true
 coverY: 0
 layout:
   cover:
