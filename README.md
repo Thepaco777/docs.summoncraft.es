@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/SummonCraft (4).png
+cover: .gitbook/assets/SummonCraft (4).png
 coverY: 0
 layout:
   cover:
@@ -14,7 +14,7 @@ layout:
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
 ---
 
 # 📌 Información
