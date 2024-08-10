@@ -9,6 +9,8 @@
   * [📄 Postulaciones](info/postus.md)
   * [📜 Votos](info/vote.md)
   * [Rango en discord](info/rango-en-discord.md)
+  * [Pagos oxxo](info/pagos-oxxo.md)
+  * [Métodos de pago](info/metodos-de-pago.md)
 * [📖 Normas](normas/README.md)
   * [📑 Normas - SS](normas/ss.md)
   * [📗 Normas - Discord](normas/discord/README.md)
