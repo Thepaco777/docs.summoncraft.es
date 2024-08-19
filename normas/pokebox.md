@@ -1,2 +1,6 @@
-# 📕 Reglas - PokeBox
+---
+hidden: true
+---
+
+# 📕 Normas - PokeBox
 

@@ -1,2 +1,6 @@
-# 📙 Reglas - Survival Custom
+---
+hidden: true
+---
+
+# 📙 Normas - Survival Custom
 

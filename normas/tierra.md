@@ -1,2 +1,6 @@
-# 📘 Reglas - Survival Tierra
+---
+hidden: true
+---
+
+# 📘 Normas - Survival Tierra
 

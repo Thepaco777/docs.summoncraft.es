@@ -1,2 +1,6 @@
-# 📙 Reglas - Gens
+---
+hidden: true
+---
+
+# 📙 Normas - Gens
 
