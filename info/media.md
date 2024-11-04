@@ -44,8 +44,8 @@ Ventajas del rango vip.
 
 ## ¿Cómo aplicar?
 
-¡Solicitar un rango es muy fácil! Si cumples con los requisitos, simplemente rellena el formulario que sale aquí abajo.
+¡Solicitar un rango es muy fácil! Si cumples con los requisitos, simplemente abre un ticket de soporte en nuestro Discord y comenta que quieres aplicar al rango.
 
-{% embed url="https://forms.gle/dp1pLsezK8h2WZ7j6" %}
+{% embed url="https://discord.gg/summoncraft" %}
 Las respuestas pueden tardar entre 24-72h en ser respondida
 {% endembed %}
