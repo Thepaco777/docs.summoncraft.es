@@ -21,7 +21,7 @@ layout:
 
 ## ¿Cómo puedo votar por el servidor?
 
-Con /vote abrimos el menú para obtener los enlaces para votar en el servidor.\
+Con <mark style="color:yellow;">**/vote**</mark> abrimos el menú para obtener los enlaces para votar en el servidor.\
 \
 En este menú tenemos 4 enlaces los cuales cada uno te dará una recompensa.\
 \
@@ -36,4 +36,4 @@ Y así lo mismo con los otros 3 enlaces.\
 &#xNAN;**➡️**[<mark style="color:yellow;">**https://topg.org/minecraft-servers/server-661573**</mark>](https://topg.org/minecraft-servers/server-661573) \
 &#xNAN;**➡️**[<mark style="color:yellow;">**https://minecraft-mp.com/server-s329709**</mark>](https://minecraft-mp.com/server-s329709)
 
-Cada 250 Votos hechos en el servidor saldrá una VoteParty que es un evento especial que solo se activa llegando a la meta Puedes ver el progreso en tu ScoreBoard.
+Cada 250 Votos hechos en el servidor saldrá una <mark style="color:yellow;">**Piñata**</mark> que es un evento especial que solo se activa llegando a la meta Puedes ver el progreso en tu ScoreBoard.

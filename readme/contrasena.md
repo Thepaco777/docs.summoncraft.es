@@ -23,9 +23,9 @@ Para poder recibir un cambio de contraseña tienes que tener en cuenta estas cos
 
 ## Cosas a tener en cuenta:
 
-* Tienes que tener alguna <mark style="color:orange;">**foto/video**</mark> dentro del servidor.
-* La <mark style="color:orange;">**foto/video**</mark> tiene que ser desde tu perspectiva no sirve una foto tomada desde otra cuenta.
-* En caso de que tengas algún rango pasar <mark style="color:orange;">**tbx-id**</mark> del rango.
+* Tienes que tener alguna <mark style="color:yellow;">**foto/video**</mark> dentro del servidor.
+* La <mark style="color:yellow;">**foto/video**</mark> tiene que ser desde tu perspectiva no sirve una foto tomada desde otra cuenta.
+* En caso de que tengas algún rango pasar <mark style="color:yellow;">**tbx-id**</mark> del rango.
 
 ## ¿Cómo puedo solicitarlo?
 

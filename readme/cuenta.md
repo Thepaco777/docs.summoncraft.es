@@ -19,13 +19,13 @@ layout:
 
 # 📦 Cambio de cuenta
 
-## :warning: Esto es algo que se permite <mark style="color:orange;">**una 1 sola vez**</mark> por compra :warning:
+## :warning: Esto es algo que se permite <mark style="color:yellow;">**una 1 sola vez**</mark> por compra :warning:
 
 ## Cosas a tener en cuenta:
 
 * La venta de rangos por cosas de otro servidor no esta permitido, en caso de esto tu cuenta será baneada permanentemente.
-* Para realizar el cambio ten preparado el <mark style="color:orange;">**tbx-id**</mark> de las compras. Si no cuentas con esto no se podrá realizar el cambio.
-* La cuenta anterior del jugador, quedará baneada de manera permanente bajo el motivo de <mark style="color:orange;">**cambio de cuenta**</mark>, esto es algo que no se puede revertir.
+* Para realizar el cambio ten preparado el <mark style="color:yellow;">**tbx-id**</mark> de las compras. Si no cuentas con esto no se podrá realizar el cambio.
+* La cuenta anterior del jugador, quedará baneada de manera permanente bajo el motivo de <mark style="color:yellow;">**cambio de cuenta**</mark>, esto es algo que no se puede revertir.
 * No se migran cosas temporales.
 * Al momento de realizarse una migración, se quitarán los paquetes y beneficios de la cuenta para evitar que el jugador los vuelva a reclamar.
 

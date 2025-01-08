@@ -10,6 +10,7 @@
   * [Rango en discord](readme/rango-en-discord.md)
   * [Pagos oxxo](readme/pagos-oxxo.md)
   * [Métodos de pago](readme/metodos-de-pago.md)
+  * [Rollbacks](readme/rollbacks.md)
 * [📋 Postulaciones](postulaciones/README.md)
   * [📄 Postulaciones - Staff](postulaciones/postus.md)
   * [📄 Postulaciones - Beta](postulaciones/postus-1.md)
