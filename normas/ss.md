@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/SummonCraft (14).png
+cover: ../.gitbook/assets/SummonCraft (20).png
 coverY: 0
 layout:
   cover:

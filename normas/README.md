@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/Copia de Copia de Copia de Diseño sin título.png
+cover: ../.gitbook/assets/SummonCraft (3).png
 coverY: 0
 layout:
   cover:
