@@ -23,7 +23,7 @@ layout:
 
 **➡️Twitter:** [https://x.com/summoncraft/](https://x.com/summoncraft/) \
 &#xNAN;**➡️Twitch**: [https://twitch.tv/summoncraftnetwork](https://twitch.tv/summoncraftnetwork) \
-&#xNAN;**➡️**TikTok: [https://www.tiktok.com/@summoncraft](https://www.tiktok.com/@summoncraft) \
+&#xNAN;**➡️TikTok**: [https://www.tiktok.com/@summoncraft](https://www.tiktok.com/@summoncraft) \
 &#xNAN;**➡️Instagram:** [https://www.instagram.com/summoncraft\_network](https://www.instagram.com/summoncraft_network?igsh=MWp3MndudmZucDNkaw%3D%3D\&utm_source=qr)\
 &#xNAN;**➡️Tienda:** [https://store.summoncraft.xyz/](https://store.summoncraft.xyz/)\
 &#xNAN;**➡️Mapa:** [https://mapa.summoncraft.es/](https://mapa.summoncraft.es/)\

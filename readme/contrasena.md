@@ -23,10 +23,10 @@ Para poder recibir un cambio de contraseña tienes que tener en cuenta estas cos
 
 ## Cosas a tener en cuenta:
 
-* Tienes que tener alguna foto/video dentro del servidor.
-* La foto/video tiene que ser desde tu perspectiva no sirve una foto tomada desde otra cuenta.
-* En caso de que tengas algún rango pasar tbx-id del rango.
+* Tienes que tener alguna <mark style="color:orange;">**foto/video**</mark> dentro del servidor.
+* La <mark style="color:orange;">**foto/video**</mark> tiene que ser desde tu perspectiva no sirve una foto tomada desde otra cuenta.
+* En caso de que tengas algún rango pasar <mark style="color:orange;">**tbx-id**</mark> del rango.
 
-## ¿Como puedo solicitarlo?
+## ¿Cómo puedo solicitarlo?
 
 Entra al discord <mark style="color:yellow;">**discord.gg/summoncraft**</mark> y en el canal de <mark style="color:purple;">**#🎫┃tickets**</mark> Abre un ticket de unregister y pon la información que te pide el bot.
