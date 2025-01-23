@@ -31,7 +31,7 @@ layout:
 
 <mark style="color:blue;">Tiktok:</mark> Tener mínimamente 500 seguidores, ser muy activo con su canal (al menos 10 videos al mes), tener como contenido principal Minecraft y haber subido 2 videos del servidor, ya sea review, gameplay o tutorial. Para mantener el rango cuando se le dé, debe subir al menos 5 videos al mes del servidor (no cuenta subir fotos ni estados).
 
-<mark style="color:green;">Famoso:</mark> Contar con más de 1000 suscriptores o seguidores en YouTube o Twitch, tener al menos 5000 seguidores en TikTok, haber subido 3 videos o directos relacionados con el servidor y tener como mínimo 10 espectadores de media (en caso de que postule al rango con su canal de Twitch). Para mantener el rango cuando se le dé, debe seguir las siguientes indicaciones según la red social con la que haya postulado:
+<mark style="color:green;">Famoso:</mark> Contar con más de 1000 suscriptores o seguidores en YouTube o Twitch, tener al menos 5000 seguidores en TikTok, haber subido 3 videos o directos relacionados con el servidor y tener como mínimo 10 espectadores de media (en caso de que postule al rango con su canal de Twitch), tener como contenido principal Minecraft y ser muy activo en su canal. Para mantener el rango cuando se le dé, debe seguir las siguientes indicaciones según la red social con la que haya postulado:
   - Youtube: Subir al menos 2 video al mes relacionado con el servidor.
   - Twitch: Hacer al menos 3 directos al mes donde haya jugado en el servidor al menos 1 hora.
   - TikTok: Subir al menos 5 videos al mes relacionados con el servidor.
