@@ -19,4 +19,4 @@ layout:
 
 # 💰 Beneficios Boost
 
-<figure><img src="../.gitbook/assets/SummonCraft (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SummonCraft (14).png" alt=""><figcaption></figcaption></figure>

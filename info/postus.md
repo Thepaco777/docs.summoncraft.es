@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/SummonCraft (10).png
+cover: ../.gitbook/assets/SummonCraft (16).png
 coverY: 0
 layout:
   cover:
@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 📄 Postulaciones
+# 📄 Postulaciones - Staff
 
 Postulaciones - SummonCraft Queremos informarles que temporalmente hemos cerrado las postulaciones. Agradecemos profundamente el interés mostrado por formar parte de nuestro equipo. Sin embargo, en este momento no estamos aceptando nuevas solicitudes.
 

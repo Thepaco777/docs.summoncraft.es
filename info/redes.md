@@ -22,12 +22,12 @@ layout:
 ## 📌Estas son nuestras redes y paginas del servidor📌
 
 **➡️Twitter:** [https://x.com/summoncraft/](https://x.com/summoncraft/) \
-**➡️Twitch**: [https://twitch.tv/summoncraftnetwork](https://twitch.tv/summoncraftnetwork) \
-**➡️**TikTok: [https://www.tiktok.com/@summoncraft](https://www.tiktok.com/@summoncraft) \
-**➡️Instagram:** [https://www.instagram.com/summoncraft\_network](https://www.instagram.com/summoncraft\_network?igsh=MWp3MndudmZucDNkaw%3D%3D\&utm\_source=qr)\
-**➡️Tienda:** [https://store.summoncraft.xyz/](https://store.summoncraft.xyz/)\
-**➡️Mapa:** [http://map.summoncraft.xyz:2095/](http://map.summoncraft.xyz:2095/)\
-**➡️Uptime:** [https://uptime.summoncraft.xyz:2083/](https://uptime.summoncraft.xyz:2083/)\
-**➡️Summon:** [https://summoncraftnetwork.com/](https://summoncraftnetwork.com/)\
-**➡️IP:** summoncraft.us ![📡](https://discord.com/assets/630521a42e6f6024764e.svg) \
-**➡️Puerto:** 19132
+&#xNAN;**➡️Twitch**: [https://twitch.tv/summoncraftnetwork](https://twitch.tv/summoncraftnetwork) \
+&#xNAN;**➡️TikTok**: [https://www.tiktok.com/@summoncraft](https://www.tiktok.com/@summoncraft) \
+&#xNAN;**➡️Instagram:** [https://www.instagram.com/summoncraft\_network](https://www.instagram.com/summoncraft_network?igsh=MWp3MndudmZucDNkaw%3D%3D\&utm_source=qr)\
+&#xNAN;**➡️Tienda:** [https://store.summoncraft.xyz/](https://store.summoncraft.xyz/)\
+&#xNAN;**➡️Mapa:** [https://mapa.summoncraft.es/](https://mapa.summoncraft.es/)\
+&#xNAN;**➡️Uptime:** [https://uptime.summoncraft.es/](https://uptime.summoncraft.es/)\
+&#xNAN;**➡️Summon:** [https://summoncraftnetwork.com/](https://summoncraftnetwork.com/)\
+&#xNAN;**➡️IP:** summoncraft.es ![📡](https://discord.com/assets/630521a42e6f6024764e.svg) \
+&#xNAN;**➡️Puerto:** 19132
