@@ -18,5 +18,5 @@ layout:
     visible: false
 ---
 
-# 💻 Comandos
+# 🥵 Guías
 
