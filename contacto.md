@@ -18,10 +18,10 @@ layout:
 
 ## :pushpin: Correos de soporte.&#x20;
 
-:arrow\_right:soporte@summoncraft.us
+:arrow\_right: soporte@summoncraft.us
 
-:arrow\_right:soporte@summoncraft.xyz
+:arrow\_right: soporte@summoncraft.xyz
 
 ## :pushpin:Discord de soporte.
 
-:arrow\_right:discord.gg/summoncraft
+:arrow\_right: discord.gg/summoncraft
