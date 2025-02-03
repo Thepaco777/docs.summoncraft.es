@@ -19,13 +19,19 @@ layout:
 
 # 📏 Términos de servicio
 
-## Términos del Servicio (tienda)
-
-Última actualización el 3 de febrero de 2025
-
-## ACEPTO DE NUESTROS TÉRMINOS LEGALES
-
-Somos SummonCraft ("Compañía", "nosotros", "nuestro"), una empresa registrada en Basseterre, Saint Kitts y Nevis.Operamos el sitio web store.summoncraft.xyz (el "Sitio"), así como cualquier otro producto y servicio relacionado que haga referencia o enlace a estos términos legales (los "Términos legales") (colectivamente, los "Servicios").Puede contactarnos por correo electrónico a soporte@summoncraft.us.Estos Términos legales constituyen un acuerdo legalmente vinculante celebrado entre usted, ya sea personalmente o en nombre de una entidad ("usted"), y SummonCraft, en relación con su acceso y uso de los Servicios. Usted acepta que al acceder a los Servicios, ha leído, comprendido y aceptado estar sujeto a todos estos Términos legales. SI NO ESTÁ DE ACUERDO CON TODOS ESTOS TÉRMINOS LEGALES, SE LE PROHÍBE EXPRESAMENTE UTILIZAR LOS SERVICIOS Y DEBE DEJAR DE USARLOS INMEDIATAMENTE.Los términos y condiciones o documentos complementarios que puedan publicarse en los Servicios de vez en cuando se incorporan expresamente al presente documento como referencia. Nos reservamos el derecho, a nuestro exclusivo criterio, de realizar cambios o modificaciones a estos Términos legales de vez en cuando. Le avisaremos sobre cualquier cambio actualizando la fecha de "Última actualización" de estos Términos legales, y usted renuncia a cualquier derecho a recibir un aviso específico de cada uno de dichos cambios. Es su responsabilidad revisar periódicamente estos Términos legales para mantenerse informado de las actualizaciones. Usted estará sujeto a, y se considerará que ha sido informado y aceptado, los cambios en los Términos legales revisados si continúa utilizando los Servicios después de la fecha de publicación de dichos Términos legales revisados.Todos los usuarios que sean menores de edad en la jurisdicción en la que residen (generalmente menores de 18 años) deben contar con el permiso de sus padres o tutores y estar bajo la supervisión directa de estos para utilizar los Servicios. Si eres menor de edad, debes pedirle a tus padres o tutores que lean y acepten estos Términos legales antes de utilizar los Servicios.Te recomendamos que imprimas una copia de estos Términos legales para tus registros.
+Somos SummonCraft ("Compañía", "nosotros", "nuestro"), una empresa registrada en Basseterre, Saint Kitts y Nevis.Operamos el sitio web store.summoncraft.xyz (el "Sitio"), así como cualquier otro producto y servicio relacionado que haga referencia o enlace a estos términos legales (los "Términos legales") (colectivamente, los "Servicios").\
+\
+Puede contactarnos por correo electrónico a soporte@summoncraft.us.\
+\
+Estos Términos legales constituyen un acuerdo legalmente vinculante celebrado entre usted, ya sea personalmente o en nombre de una entidad ("usted"), y SummonCraft, en relación con su acceso y uso de los Servicios. Usted acepta que al acceder a los Servicios, ha leído, comprendido y aceptado estar sujeto a todos estos Términos legales. \
+\
+SI NO ESTÁ DE ACUERDO CON TODOS ESTOS TÉRMINOS LEGALES, SE LE PROHÍBE EXPRESAMENTE UTILIZAR LOS SERVICIOS Y DEBE DEJAR DE USARLOS INMEDIATAMENTE.\
+\
+Los términos y condiciones o documentos complementarios que puedan publicarse en los Servicios de vez en cuando se incorporan expresamente al presente documento como referencia.\
+\
+Nos reservamos el derecho, a nuestro exclusivo criterio, de realizar cambios o modificaciones a estos Términos legales de vez en cuando. Le avisaremos sobre cualquier cambio actualizando la fecha de "Última actualización" de estos Términos legales, y usted renuncia a cualquier derecho a recibir un aviso específico de cada uno de dichos cambios. \
+\
+Es su responsabilidad revisar periódicamente estos Términos legales para mantenerse informado de las actualizaciones. Usted estará sujeto a, y se considerará que ha sido informado y aceptado, los cambios en los Términos legales revisados si continúa utilizando los Servicios después de la fecha de publicación de dichos Términos legales revisados.Todos los usuarios que sean menores de edad en la jurisdicción en la que residen (generalmente menores de 18 años) deben contar con el permiso de sus padres o tutores y estar bajo la supervisión directa de estos para utilizar los Servicios. Si eres menor de edad, debes pedirle a tus padres o tutores que lean y acepten estos Términos legales antes de utilizar los Servicios.Te recomendamos que imprimas una copia de estos Términos legales para tus registros.
 
 ## ÍNDICE
 
