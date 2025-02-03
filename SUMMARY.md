@@ -41,3 +41,4 @@
   * [Survival Custom bosses](tutoriales/survival-custom-bosses.md)
   * [Survival Custom como empezar](tutoriales/survival-custom-como-empezar.md)
   * [Survival Custom - /trade](tutoriales/survival-custom-trade.md)
+* [📞 Contacto](contacto.md)
